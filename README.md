@@ -1,6 +1,4 @@
-**My daily basis automation & utility tools**  
-
-A collection of simple scripts to automate everyday tasks.
+**My daily basis automation & utility tools. A collection of simple scripts to automate everyday tasks.**
 
 ---
 
